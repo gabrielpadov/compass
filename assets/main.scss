@@ -105,12 +105,18 @@ footer {
 	bottom: 0;
 	right: 0;
 	height: 20px;
-	font-family: "Arial Narrow", Arial;
-	font-size: 0.6em;
-	line-height: 0.6em;
-	padding: 0 5px;
 }
 
+.source {
+	position: absolute;
+	top: 0;
+	right: 0;
+	height: 20px;
+	font-family: "Arial Narrow", Arial;
+	font-size: 0.4em;
+	line-height: 0.6em;
+	padding: 5px 5px;
+}
 .poweredby {
 	font-family: "Arial Narrow", Arial;
 	font-size: 0.6em;
