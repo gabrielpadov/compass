@@ -124,6 +124,19 @@ footer {
 	padding: 0 5px;
 }
 
+.construction {
+	width: 35px;
+	height: 35px;
+	overflow: hidden;
+	position: relative;
+  }
+  
+  .construction img {
+	// position: absolute;
+	bottom: 0;
+	width: 100%;
+  }
+
 /*** media queries ***/
 /* X-Small devices (phones, 480px and up) */
 @media (min-width: 480px) {
@@ -132,6 +145,7 @@ footer {
 		width: 480px;
 		margin: 3% auto 0 auto;
 	}
+
 }
 
 /* All other devices (768px and up) */
@@ -161,18 +175,5 @@ footer {
 		margin-left: 54%;
 		padding: 0;
 	}
-
-	.construction {
-		width: 35px;
-		height: 35px;
-		overflow: hidden;
-		position: relative;
-	  }
-	  
-	  .construction img {
-		// position: absolute;
-		bottom: 0;
-		width: 100%;
-	  }
 
 }
