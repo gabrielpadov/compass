@@ -1,3 +1,12 @@
+# Personal Page
+Modificado de um modelo do framework Jekyll, um gerador de sites estáticos. 
+A ferramenta utiliza de textos escritos em linguagem de marcação e e usa layouts para criar um site estático.
+Utilizei como um cartão de apresentação na época que estava procurando um estágio.
+
+![image](https://github.com/gabrielpadov/gabrielpadov.github.io/assets/33489999/e3e93508-ae27-4dba-9e71-36c6583c9554)
+
+
+
 # Documentation
 
 Compass is a Jekyll theme designed with something very specific in mind: to be a simple and elegant personal landing page that can be easily deployed to [GitHub Pages](https://pages.github.com/).
